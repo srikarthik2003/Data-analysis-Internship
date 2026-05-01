@@ -1,2 +1,2 @@
 # Data-analysis-Internship
-The tasks in this repository are done during my internship on data analysis
+The tasks in this repository are done on data analysis
